@@ -1,11 +1,12 @@
 <h3 align="center"><img width="900" alt="Screenshot 2023-05-26 at 8 36 50 PM" src="https://github.com/ellaowens/ellaowens/assets/114102710/08e211c5-2924-49cf-92de-8d3d9f8bcf29"></h3>
 
 
-**I am Luz Mireya Ritacco, I have always been passionate about engineering and technology. I am from Colombia and after immigrating to the U.S.A I studied and graduated from NJIT with a B.S in Electrical and Computer Engineering Technology and then a master’s in engineering management. But I also had another dream: to have a family. I met my husband when I was at school, and we got married soon after graduation. We decided to have children, and I was blessed with three beautiful kids: two boys and a girl. They are the joy of my life and the reason I keep pushing limits and pursuing my dreams.
-	After achieving my goals of gaining my degrees and having a family, my next goal is to go back to a professional role, I 'm pursuing a bootcamp in cybersecurity because I have found a strong passion for this field. This reflects my enthusiasm for constantly learning new things and finding new challenges. I think I can be a role model for other women like me who paused their professional career to raise a family and now are back with full energy and a lifelong learning spirit. I believe it is never too late to start over and pursue your passion and new aspirations.
+**I am Luz Mireya Ritacco** I have always been passionate about engineering and technology. I am from Colombia and after immigrating to the U.S.A I studied and graduated from NJIT with a B.S in Electrical and Computer Engineering Technology and then a master’s in engineering management. But I also had another dream: to have a family. I met my husband when I was at school, and we got married soon after graduation. We decided to have children, and I was blessed with three beautiful kids: two boys and a girl. They are the joy of my life and the reason I keep pushing limits and pursuing my dreams.
+	After achieving my goals of gaining my degrees and having a family, my next goal is to go back to a professional role, I 'm pursuing a bootcamp in cybersecurity at The Knowledge House because I have found a strong passion for this field. This reflects my enthusiasm for constantly learning new things and finding new challenges. I think I can be a role model for other women like me who paused their professional career to raise a family and now are back with full energy and a lifelong learning spirit. I believe it is never too late to start over and pursue your passion and new aspirations.
+.
 
 ##
-My journey at TKH has equipped me with the skills and knowledge necessary to excel in the field of cybersecurity and project management, and I am eager to contribute my expertise to challenging and impactful projects in the future.
+My experience at TKH has prepared me well for the challenges and opportunities in the cybersecurity field. I have learned valuable skills and knowledge that will help me succeed in this career path. I am confident and eager to pursue my new role as a cybersecurity professiona.
 
 
 - 👩🏽‍💻 **My Projects:**
