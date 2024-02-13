@@ -14,7 +14,7 @@ My experience at TKH has prepared me well for the challenges and opportunities i
 - https://github.com/luzritacco/Cybersecurity-Home-Lab
   
 
-- 📚 **My certifications $ Bagds :** 
+- 📚 **My certifications $ Badges :** 
   - https://www.credly.com/earner/earned
   
     
