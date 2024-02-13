@@ -15,7 +15,7 @@ My experience at TKH has prepared me well for the challenges and opportunities i
   
 
 - 📚 **My certifications $ Bagds :** 
-  - 
+  - https://www.credly.com/earner/earned
   
     
 ## <h3 align="left">Languages and Tools:</h3>
