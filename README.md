@@ -1,5 +1,6 @@
 
-![Screenshot 2024-02-14 044238](https://github.com/luzritacco/luzritacco/assets/151267325/841407be-7010-40e9-b67a-eb3757ff5141)
+![Screenshot 2024-02-14 045625](https://github.com/luzritacco/luzritacco/assets/151267325/d6afe6d9-0b83-46cf-a422-1033226adea6)
+
 
 <h1 align="center">About Me:</h1>
 
