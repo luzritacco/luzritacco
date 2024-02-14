@@ -2,7 +2,7 @@
 ![Screenshot 2024-02-14 045907](https://github.com/luzritacco/luzritacco/assets/151267325/ca573d59-41c1-4ec3-bfe1-fb63b98b1a71)
 
 <h1 align="center">About Me:</h1>
-#
+
 
 **I am Luz Mireya Ritacco** I have always been passionate about engineering and technology. I am from Colombia and after immigrating to the U.S.A I studied and graduated from NJIT with a **B.S in Electrical and Computer Engineering Technology** and then a **Master’s in Engineering Management**. But I also had another dream: to have a family. I met my husband when I was at school, and we got married soon after graduation. We decided to have children, and I was blessed with three beautiful kids: two boys and a girl. They are the joy of my life and the reason I keep pushing limits and pursuing my dreams.
 
