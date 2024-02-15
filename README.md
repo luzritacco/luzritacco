@@ -14,7 +14,7 @@ My experience at TKH has prepared me well for the challenges and opportunities i
 
 
 - 👩🏽‍💻 **My Projects:**
-- https://github.com/luzritacco/Cybersecurity-Home-Lab
+   - https://github.com/luzritacco/Cybersecurity-Home-Lab
   
 
 - 📚 **My certifications $ Badges :** 
