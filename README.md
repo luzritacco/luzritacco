@@ -18,7 +18,8 @@ My experience at TKH has prepared me well for the challenges and opportunities i
   
 
 - 📚 **My certifications $ Badges :** 
-  - https://www.credly.com/earner/earned
+  - https://www.credly.com/users/luz-ritacco
+
   
     
 ## <h3 align="left">Languages and Tools:</h3>
