@@ -16,12 +16,13 @@ My experience at TKH has prepared me well for the challenges and opportunities i
 - 👩🏽‍💻 **My Projects:**
    - https://github.com/luzritacco/Cybersecurity-Home-Lab
   
--👩🏽‍💻**Team Colaboration:**
-    -https://github.com/zchisholm/TKH-Group-2-Docker
+- 👩🏽‍💻**Team Colaboration:**
+   - https://github.com/zchisholm/TKH-Group-2-Docker
 
     
--👩🏽‍💻**Presentations:**
-   -
+- 👩🏽‍💻**Presentations:**
+   - https://github.com/luzritacco/Cloud-Computing
+   
 - 📚 **My certifications $ Badges :** 
   - https://www.credly.com/users/luz-ritacco
 
