@@ -13,12 +13,12 @@ After achieving my goals of gaining my degrees and having a family, my next goal
 My experience at TKH has prepared me well for the challenges and opportunities in the cybersecurity field. I have learned valuable skills and knowledge that will help me succeed in this career path. I am confident and eager to pursue my new role as a cybersecurity professional.
 
 
-- 👩🏽‍💻 **My Projects:**
+- 👩‍💻 **My Projects:**
    - [Cybersecurity-Home-Lab](https://github.com/luzritacco/Cybersecurity-Home-Lab)
    - [AWS-Own-Network-lab](https://github.com/luzritacco/AWS-Own-Network-lab)
    - [AWS-lab](https://github.com/luzritacco/AWS-lab)
   
-- 👩🏽‍💻**Team Colaborations:**
+- 👩‍💻**Team Colaborations:**
    - [WWC-Hackathon](https://github.com/luzritacco/WWC-Hackathon)
    - [TKH-Group-2-Docker](https://github.com/zchisholm/TKH-Group-2-Docker)
    - [AWS-Ethical-Hacking-lab](https://github.com/luzritacco/AWS-Ethical-Hacking-lab)
@@ -26,7 +26,7 @@ My experience at TKH has prepared me well for the challenges and opportunities i
 
 
     
-- 👩🏽‍💻**Presentations:**
+- 👩‍💻**Presentations:**
    - [Cloud-Computing](https://github.com/luzritacco/Cloud-Computing)
    
 - 📚 **My certifications $ Badges :** 
