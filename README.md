@@ -14,23 +14,23 @@ My experience at TKH has prepared me well for the challenges and opportunities i
 
 
 - 👩🏽‍💻 **My Projects:**
-   - https://github.com/luzritacco/Cybersecurity-Home-Lab
-   - https://github.com/luzritacco/AWS-Own-Network-lab
-   - https://github.com/luzritacco/AWS-lab
+   - [Cybersecurity-Home-Lab](https://github.com/luzritacco/Cybersecurity-Home-Lab)
+   - [AWS-Own-Network-lab](https://github.com/luzritacco/AWS-Own-Network-lab)
+   - [AWS-lab](https://github.com/luzritacco/AWS-lab)
   
 - 👩🏽‍💻**Team Colaborations:**
-   - https://github.com/luzritacco/WWC-Hackathon
-   -  https://github.com/zchisholm/TKH-Group-2-Docker
-   -  https://github.com/luzritacco/AWS-Ethical-Hacking-lab
-   -  https://github.com/luzritacco/Bloomberg-Hackathon/tree/main
+   - [WWC-Hackathon](https://github.com/luzritacco/WWC-Hackathon)
+   - [TKH-Group-2-Docker](https://github.com/zchisholm/TKH-Group-2-Docker)
+   - [AWS-Ethical-Hacking-lab](https://github.com/luzritacco/AWS-Ethical-Hacking-lab)
+   - [Bloomberg-Hackathon](https://github.com/luzritacco/Bloomberg-Hackathon/tree/main)
 
 
     
 - 👩🏽‍💻**Presentations:**
-   - https://github.com/luzritacco/Cloud-Computing
+   - [Cloud-Computing](https://github.com/luzritacco/Cloud-Computing)
    
 - 📚 **My certifications $ Badges :** 
-  - https://www.credly.com/users/luz-ritacco
+  - [certifications $ Badges](https://www.credly.com/users/luz-ritacco)
 
   
     
