@@ -17,6 +17,7 @@ My experience at TKH has prepared me well for the challenges and opportunities i
    - [Cybersecurity-Home-Lab](https://github.com/luzritacco/Cybersecurity-Home-Lab)
    - [AWS-Own-Network-lab](https://github.com/luzritacco/AWS-Own-Network-lab)
    - [AWS-lab](https://github.com/luzritacco/AWS-lab)
+   - [DoD-Hackathon](https://github.com/luzritacco/DoD-CTF-Hackathon)
   
 - 👩‍💻**Team Colaborations:**
    - [WWC-Hackathon](https://github.com/luzritacco/WWC-Hackathon)
