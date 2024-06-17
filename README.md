@@ -4,10 +4,7 @@
 <h1 align="center">About Me:</h1>
 
 
-**I am Luz Mireya Ritacco** I have always been passionate about engineering and technology. I am from Colombia and after immigrating to the U.S.A I studied and graduated from NJIT with a **B.S in Electrical and Computer Engineering Technology** and then a **Master’s in Engineering Management**. But I also had another dream: to have a family. I met my husband when I was at school, and we got married soon after graduation. We decided to have children, and I was blessed with three beautiful kids: two boys and a girl. They are the joy of my life and the reason I keep pushing the limits and pursuing my dreams.
-
-After achieving my goals of gaining my degrees and having a family, my next goal is to go back to a professional role, I'm currenly taking a **Fellowship in cybersecurity at The Knowledge House**, I have found a strong passion for this field. This reflects my enthusiasm for constantly learning new things and finding new challenges. I think I can be a role model for other women like me who paused their professional career to raise a family and now I am  back with full energy with a lifelong learning spirit. I believe it is never too late to start over and pursue your passion and new aspirations.
-
+**I am Luz Mireya Ritacco** I have always been passionate about engineering and technology. I graduated from NJIT with a B.S. in **Electrical and Computer Engineering Technology** and later earned a master’s degree in **Engineering Management**. After achieving my academic goals and starting a family, I am now eager to return to a professional role. Currently, I am pursuing a fellowship in cybersecurity, as I have developed a strong passion for this field.I am enthusiastic about connecting with others and exploring new opportunities in cybersecurity
 
 #
 My experience at TKH has prepared me well for the challenges and opportunities in the cybersecurity field. I have learned valuable skills and knowledge that will help me succeed in this career path. I am confident and eager to pursue my new role as a cybersecurity professional.
