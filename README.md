@@ -4,10 +4,10 @@
 <h1 align="center">About Me:</h1>
 
 
-**I am Luz Mireya Ritacco** I have always been passionate about engineering and technology. I graduated from NJIT with a B.S. in **Electrical and Computer Engineering Technology** and later earned a master’s degree in **Engineering Management**. After achieving my academic goals and starting a family, I am now eager to return to a professional role. Currently, I am pursuing a fellowship in cybersecurity, as I have developed a strong passion for this field.I am enthusiastic about connecting with others and exploring new opportunities in cybersecurity
+**I am Luz Mireya Ritacco** I have always been passionate about engineering and technology. I graduated from NJIT with a B.S. in **Electrical and Computer Engineering Technology** and later earned a master’s degree in **Engineering Management**. After achieving my academic goals and starting a family, I am now eager to return to a professional role. Currently, I am pursuing a fellowship in cybersecurity, as I have developed a strong passion for this field. I am enthusiastic about connecting with others and exploring new opportunities in cybersecurity
 
 #
-My experience at TKH has prepared me well for the challenges and opportunities in the cybersecurity field. I have learned valuable skills and knowledge that will help me succeed in this career path. I am confident and eager to pursue my new role as a cybersecurity professional.
+My experience at [TKH](https://www.theknowledgehouse.org/ ) has prepared me well for the challenges and opportunities in the cybersecurity field. I have learned valuable skills and knowledge that will help me succeed in this career path. I am confident and eager to pursue my new role as a cybersecurity professional.
 
 #
 - 👩‍💻 **My Projects:**
