@@ -31,6 +31,9 @@ My experience at [TKH](https://www.theknowledgehouse.org/ ) has prepared me well
    
 - 📚 **My certifications $ Badges :** 
   - [certifications $ Badges](https://www.credly.com/users/luz-ritacco)
+![image](https://github.com/user-attachments/assets/501748b8-ebe1-45aa-abc2-ca7e8e1462b7)
+![Screenshot 2024-11-11 193408](https://github.com/user-attachments/assets/2dad852f-7aff-4fd7-9646-5335e489996c)
+
 
   
     
