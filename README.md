@@ -31,8 +31,9 @@ My experience at [TKH](https://www.theknowledgehouse.org/ ) has prepared me well
 
     
 - 👩‍💻**Presentations:**
-   - [Cloud-Computing](https://github.com/luzritacco/Cloud-Computing)
    - [Capstone Project-DevOps-Pipeline-for-CI-CD ](https://www.canva.com/design/DAGCIXpqAFQ/0PcW4HScr93AALiD4R4XGw/edit)
+   -  [Cloud-Computing](https://github.com/luzritacco/Cloud-Computing)
+ 
    
 - 📚 **My certifications $ Badges :** 
   - [certifications $ Badges](https://www.credly.com/users/luz-ritacco)
