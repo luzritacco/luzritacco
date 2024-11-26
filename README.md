@@ -11,10 +11,13 @@ My experience at [TKH](https://www.theknowledgehouse.org/ ) has prepared me well
 
 #
 - 👩‍💻 **My Projects:**
-   - [Cybersecurity-Home-Lab](https://github.com/luzritacco/Cybersecurity-Home-Lab)
-   - [AWS-Own-Network-lab](https://github.com/luzritacco/AWS-Own-Network-lab)
+   -  [DoD-Hackathon](https://github.com/luzritacco/DoD-CTF-Hackathon)
    - [AWS-lab](https://github.com/luzritacco/AWS-lab)
-   - [DoD-Hackathon](https://github.com/luzritacco/DoD-CTF-Hackathon)
+   -  [AWS-Own-Network-lab](https://github.com/luzritacco/AWS-Own-Network-lab)
+   -  [Cybersecurity-Home-Lab](https://github.com/luzritacco/Cybersecurity-Home-Lab)
+
+
+  
   
 - 👩‍💻**Team Colaborations:**
    - [WWC-Hackathon](https://github.com/luzritacco/WWC-Hackathon)
